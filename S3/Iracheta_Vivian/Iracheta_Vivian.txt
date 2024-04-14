@@ -1,1 +1,13 @@
+For this stage I worked on the files named: Inventory, Item, Sales, SalesManager, and SportsManagementSystem. Also, worked on updating the UML diagram.
 
+Item gets information of an item like the id, name, and price which is used by the Inventory class.
+
+Inventory allows for the addition or removal of items, as well as displaying all the items and searching for specific items.
+
+The SalesManager maintains a collection of sales where each sale is associated with a unique ID. The value is than used by the Sales class. It also has methods to add a sale and find a sale by its ID.
+
+The Sales class represents an individual sale. It has methods to get and set, add and remove items from the sale, and calculate a discount based on loyalty points.
+
+The SportsManagementSystem holds the Sales management menu which then allows for the user to access the inventory or sales submenu.
+
+The UML diagram is an updated version with all of the classes and the methods and variables that each of them use.
