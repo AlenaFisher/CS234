@@ -1,1 +1,15 @@
-for this portion of the project, I worked on both the employee and members functions with their respective classes. I also created the readme document that details how to use the program as a whole in a text based enviroment. 
+for this portion of the project, I worked on both the employee and members functions with their respective classes. I also created the readme document that details how to use the program as a whole in a text based enviroment. ]\
+
+the employee portion includes a management system that can deal with employee information and performance. In addition, you can view how many hours each employee worked as well as delete ones that are no longer within the club.
+
+The files for this are Attendance, Communication, Employees_info, and PerformanceMetrics.
+
+Attendance handles the attendance functions, communication handles the communication information, employees_info handles the general employee information, and performancemetrics is the how performance is tracked. 
+
+
+
+the members portion is very simular to the employee manangement function, it allows you to keep track of member information as well as updating/deleting. There is also a function that allows for renewal on the fly.
+
+Member handles the basic member information, membershipManager handles the output of information and general important outputs, and membershipSys handles all of the input and functionality and assignments.
+
+the README document details important functionality and usage guidelines. 
