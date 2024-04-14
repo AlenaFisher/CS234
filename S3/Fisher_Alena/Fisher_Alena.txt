@@ -1,0 +1,29 @@
+For stage III, I worked on the scheduling for appointments, the coach management, the field, rink, and court management, the equipment management, and created the main menu.
+
+The Appointment class allows for the creation of a new appointment using the member's information, and has getter and setter methods for that data.
+
+The Schedule class has a linked list to store the information for the appointment, and a second linked list to store all of the appointments.
+As well, there are methods to display appointment information, check if an appointment exists, update appointment information, and remove an appointment from the system.
+
+The Equipment class allows for the creation of a new equipment type and its quantity. There are getter and setter methods for the corresponding data.
+
+The Club class has a linked list that stores the information for an equipment. 
+There are methods to add an equipment, get the information for an equipment, check if an equipment exists, display the equipment name only, update the information for an equipment, and remove an equipment from the system.
+
+The Coach class allows for the creation of a new coach, and has getter and setter information for the corresponding data.
+
+The CoachDirectory class has a linked list to store all of the information for a coach, and a second linked list to store all of the coaches.
+There are methods to add a coach to the system, display a coach's information, check if a coach exists, update the information for a coach, and to remove a coach from the system.
+
+The Team class allows for the creation of a team for hockey, basketball, volleyball, baseball, or softball. There are getter and setter methods for the corresponding data.
+
+The Teams class has a linked list to store the information for a team, and a second linked list to store all of the teams.
+There are methods to add a team, display all team information, or to display only the team names.
+
+The Game class allow for the creation of a game. The teams list is printed and two teams are chosen, and a game, time, and date are set. There are getter and setter methods for the corresponding data.
+
+The GameSchedule class has a linked list to store the information of a game, and a second linked list to store all of the games. 
+There are methods to add a game, display the information for a game, or display the entire game schedule.
+
+The MenuTest file has methods and variables to run all of these classes. A menu is presented to the user to manage equipment, scheduling, coaches, the ice rink, the court, the field, and the gym.
+Each option has a submenu that allows the user to create, update, read, or delete (CRUD) information in the system. This menu allows for a smooth and positive experience for the user, all with the goal to make management easier.
