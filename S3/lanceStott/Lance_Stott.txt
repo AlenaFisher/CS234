@@ -1,0 +1,1 @@
+for this portion of the project, I worked on both the employee and members functions with their respective classes. I also created the readme document that details how to use the program as a whole in a text based enviroment. 
