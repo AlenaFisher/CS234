@@ -1,6 +1,8 @@
 /**
  * CS234 Stage III
- * 
+ * This program provides a menu for managing a sports club, including submenus for employee, member, sales, scheduling, and equipment management.
+ * Vivian Iracheta Cruz, Alena Fisher, Lance Stott
+ * 4/14/2024
  */
 import java.util.*;
 
