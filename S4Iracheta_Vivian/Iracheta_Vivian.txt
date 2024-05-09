@@ -1,0 +1,3 @@
+For this stage of the project I worked on the Sales_GUI, Inventory_GUI, and my personal MainGUI.
+Both the sales and inventory GUIs lets you create and remove. The inventory also lets you delete or update the items.
+I also worked on updating and creating the UML diagram.
