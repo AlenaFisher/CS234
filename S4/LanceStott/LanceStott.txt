@@ -1,0 +1,1 @@
+For this project, I worked on both the Employee and Member GUIs. In addition, I created the user guide and the readme files. I also worked on updating the uml, this being the files associated with both the employee and member portions and their respective classes. 
