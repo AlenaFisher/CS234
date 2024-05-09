@@ -1,0 +1,3 @@
+For this stage of the project, I worked on the program's main GUI, my personal main GUI, the appointment GUI, coaches GUI, equipment GUI, and the facility GUIs. These
+GUIs allow the user to create, remove, update, and delete information for appointments, coaches, equipment, and games.
+I also created the .jar file and worked on the UML diagram for my respective GUIs and class files.
